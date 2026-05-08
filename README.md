@@ -1,3 +1,5 @@
+[file:///home/keyz/Downloads/GitHub-Profile-Banner.png]
+
 Hi! I'm Mario Aquino 🇦🇷 — a Full-Stack Developer passionate about AI, quantum computing and clean architecture.
 
 🚀 Currently building:
